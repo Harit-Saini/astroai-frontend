@@ -1,0 +1,6 @@
+{
+  "name": "AstroAi - AI Astrology Consultation & Short Videos",
+  "description": "Premium AI Astrology platform offering personalized Vedic & Western horoscope consultations, curated astrology reels, and ₹299 premium membership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
